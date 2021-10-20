@@ -16,7 +16,8 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.25.1",
-    "@vvo/tzdb": "^6.29.0"
+    "@vvo/tzdb": "^6.29.0",
+    "dayjs": "^1.10.7"
   },
   "devDependencies": {
     "@types/node": "~16.10.0",
